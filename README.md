@@ -6,4 +6,4 @@ Hi, I'm Sebastian Ayala!
 </h1>
 </p>
 <img align="right" alt="GIF" height="160px">
-src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif)" />
+src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
