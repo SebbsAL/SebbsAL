@@ -14,3 +14,5 @@ Hi, I'm Sebastian Ayala!
 🚩 Interested in Artificial Intelligence and Automatization
 🌎 Languages I speak: Spanish (Native) English (C1) French (B2) Portuguese (A1)
 </pre>
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
