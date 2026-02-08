@@ -13,6 +13,7 @@ Hi, I'm Sebastian Ayala!
 🌟 Main language: Python
 🚩 Interested in Artificial Intelligence and Automatization
 🌎 Languages I speak: Spanish (Native) English (C1) French (B2) Portuguese (A1)
+    <img align="right" src="https://media.tenor.com/7cQ9-ELrjfYAAAAM/cat-typing-on-keyboard---i%27m-cooking.gif">
 </pre>
 👨‍💻 Programming Languages
 <p>
