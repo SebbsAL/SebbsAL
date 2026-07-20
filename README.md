@@ -36,9 +36,7 @@
   <p>Desplegado en un <strong>VPS propio autogestionado</strong> desplegado con <strong>Coolify</strong> y <strong>Docker</strong>.</p>
   <p>Puedes visitarlo aquí:</p>
   <a href="https://sebbsalportfolio.auto-node.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Visitar_Portafolio-sebbsalportfolio.auto--node.tech-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Link al Portafolio" />
   </a>
-  <br>
 </div>
 
 ---
