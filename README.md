@@ -1,7 +1,7 @@
 <!-- Header principal -->
 <div align="center">
   <h1>¡Hola! Soy Sebastian Ayala 👋</h1>
-  <h3>Desarrollador en formación @Campuslands | Entusiasta de la IA & Game Development</h3>
+  <h2>Desarrollador en formación enCampuslands | Enfoque e Interes en FrontEnd y Automatizacion de procesos</h2>
   <br>
 </div>
 
