@@ -15,7 +15,7 @@
   <li>💻 Formándome intensivamente en <strong>Campuslands</strong>.</li>
   <li>🎮 Gran interés en el <strong>FrontEnd (UI/UX)</strong>.</li>
   <li>⚙️ Gran interés en la automatizacion de procesos via N8N </li>
-  <li>☕ <strong>Actualmente aprendiendo:</strong> Java.</li>
+  <li>☕ <strong>Actualmente aprendiendo:</strong> Java. <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></li>
 </ul>
 
 <h3>🌍 Idiomas que hablo</h3>
@@ -61,17 +61,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Coolify-663399?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
   <br><br>
-</div>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <a href="https://github.com/SebbsAL">
-    <img src="https://github-readme-stats.vercel.app/api?username=SebbsAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Sebastian" height="160"/>
-  </a>
-  <a href="https://github.com/SebbsAL">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebbsAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" height="160"/>
-  </a>
 </div>
