@@ -1,7 +1,7 @@
 <!-- Header principal -->
 <div align="center">
   <h1>¡Hola! Soy Sebastian Ayala 👋</h1>
-  <h2>Desarrollador en formación enCampuslands | Enfoque e Interes en FrontEnd y Automatizacion de procesos</h2>
+  <h2>Desarrollador en formación en Campuslands</h2>
   <br>
 </div>
 
@@ -9,13 +9,13 @@
 
 <h3>👨‍💻 Un poco sobre mí</h3>
 <p>
-  Soy un estudiante de programación apasionado por explorar cómo el código puede resolver problemas complejos y crear experiencias interactivas. Mi enfoque actual está en fortalecer mis bases como desarrollador mientras exploro campos que me fascinan como la <strong>Inteligencia Artificial</strong> y la <strong>Automatización</strong>.
+  Soy un estudiante de programación FullStack aprendiendo un poco sobre todo, siempre buscando autosuperarme cada dia, tomando nuevos retos constantemente
 </p>
 <ul>
   <li>💻 Formándome intensivamente en <strong>Campuslands</strong>.</li>
-  <li>🎮 Gran interés en el <strong>Desarrollo de Videojuegos (Game Making)</strong>.</li>
-  <li>🚀 <strong>Actualmente aprendiendo:</strong> Creación de arquitecturas sólidas y escalables.</li>
-  <li>🤝 <strong>Buscando colaborar en:</strong> Proyectos Open Source, IA o juegos Indie.</li>
+  <li>🎮 Gran interés en el <strong>FrontEnd (UI/UX)</strong>.</li>
+  <li>⚙️ Gran interés en la automatizacion de procesos via N8N </li>
+  <li>☕ <strong>Actualmente aprendiendo:</strong> Java.</li>
 </ul>
 
 <h3>🌍 Idiomas que hablo</h3>
@@ -27,13 +27,13 @@
 
 ---
 
-### 🌐 Mi Proyecto Deployed
+### 🌐 Mi Portafolio
 
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/Portafolio%20en%20Producción-0D1117?style=for-the-badge&logo=coolify&logoColor=white" alt="Portafolio en Producción" />
   <br><br>
-  <p>Desplegado en un <strong>VPS propio autogestionado</strong> con <strong>Coolify</strong> y <strong>Docker</strong>.</p>
+  <p>Desplegado en un <strong>VPS propio autogestionado</strong> desplegado con <strong>Coolify</strong> y <strong>Docker</strong>.</p>
   <p>Puedes visitarlo aquí:</p>
   <a href="https://sebbsalportfolio.auto-node.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Visitar_Portafolio-sebbsalportfolio.auto--node.tech-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Link al Portafolio" />
@@ -76,10 +76,4 @@
   <a href="https://github.com/SebbsAL">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebbsAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" height="160"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House</i>
 </div>
