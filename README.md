@@ -13,7 +13,9 @@
 </p>
 <ul>
   <li>💻 Formándome intensivamente en <strong>Campuslands</strong>.</li>
-  <li>🎮 Gran interés en el <strong>FrontEnd (UI/UX)</strong>.</li>
+  <li>🎮 Gran interés en el <strong>FrontEnd (UI/UX)</strong>.<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></li>
   <li>⚙️ Gran interés en la automatizacion de procesos via N8N </li>
   <li>☕ <strong>Actualmente aprendiendo:</strong> Java. <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></li>
 </ul>
