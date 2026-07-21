@@ -13,7 +13,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:F72585&height=60&section=header" width="100%"/>
 
-<img align="right" width="220" src="https://media.tenor.com/7cQ9-ELrjfYAAAAM/cat-typing-on-keyboard---i%27m-cooking.gif" alt="Cat Typing" />
+<div align="center">
+  <img src="./assets/chibi-coding.jpg" width="420" alt="Sebastian en su rincón de código (arte chibi)"/>
+</div>
 
 <h3>
   <img width="26" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" align="center"/>
@@ -42,8 +44,6 @@
   <img src="https://flagcdn.com/w40/br.png" width="24" alt="Brasil"/> <b>Portugués</b> (A1)
 </p>
 
-<br clear="right">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:F72585&height=60&section=header" width="100%"/>
 
 <h3 align="center">
@@ -58,7 +58,7 @@
   <p>Desplegado en un <strong>VPS propio autogestionado</strong> desplegado con <strong>Coolify</strong> y <strong>Docker</strong>.</p>
   <p>Puedes visitarlo aquí:</p>
   <a href="https://sebbsalportfolio.auto-node.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Visitar_Portafolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Portafolio" />
+    <img src="https://img.shields.io/badge/Visitar_Portafolio-7F5AF0?style=for-the-badge&logo=brave&logoColor=white" alt="Visitar Portafolio" />
   </a>
 </div>
 
@@ -97,12 +97,7 @@
 </h3>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SebbsAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=7F5AF0" alt="Estadísticas de GitHub de SebbsAL"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebbsAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F72585" alt="Lenguajes más usados"/>
-  <br>
   <img src="https://streak-stats.demolab.com/?user=SebbsAL&theme=tokyonight&hide_border=true&background=0D1117&ring=7F5AF0&fire=F72585" alt="Racha de contribuciones de GitHub"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=SebbsAL&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trofeos de GitHub"/>
 </div>
 
 <br>
